@@ -28,9 +28,9 @@ function setupModeButtons(){
 			modeButtons[1].classList.remove("selected");
 			this.classList.add("selected"); //"this" refers to the item that is clicked. It can be either the easy button, either the hard.
 			if (this.textContent === "Easy"){
-			numSquares = 3;
+				numSquares = 3;
 			} else {
-			numSquares = 6;
+				numSquares = 6;
 			}
 			//will pick colors
 			reset();
@@ -91,7 +91,7 @@ resetButton.addEventListener("click", function(){
 
 function changeColors(color){
 	//loop through all squares
-		for (var i = 0; i < squares.length; i++) {
+	for (var i = 0; i < squares.length; i++) {
 		//change each color to match given color
 		squares[i].style.backgroundColor = color;
 	}
