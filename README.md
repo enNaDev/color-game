@@ -1,4 +1,7 @@
 # color-game
+
+https://codepen.io/enNaDev/pen/VwYNeMo
+
 This is a Color Game guessing! 
 Read the color that is randomly given in RGB and try to guess the color. 
 There are two modes of difficulty.
