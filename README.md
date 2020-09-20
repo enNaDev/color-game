@@ -1,8 +1,8 @@
-# color-game
+# Color Guessing Game
 
 ### Live demo: https://ennadev.github.io/color-game/
 
-This is a Color Game guessing! 
+This is a Color Guessing Game! 
 
 Try to guess the color that is randomly generated. The color is given in RGB format.
 
