@@ -1,5 +1,4 @@
-# Color Guessing Game.
-# See the color given in RGB and try to guess which it's the right one! 
+## Color Guessing Game. Try to guess what color is the given RGB! 
 
 ### Live demo: https://ennadev.github.io/color-game/
 
